@@ -5,4 +5,4 @@
     - 💕 SJU 재학 중
     - 💕 (공백)
 - ## 📝Study📝
-    - 💗 <img src="https://img.shields.io/badge/#3776AB-#306998?style=flat-square&logo=#3776AB&logoColor=white"/>
+    - 💗 <img src="https://img.shields.io/badge/Python-#306998?style=flat-square&logo=python&logoColor=white"/>
