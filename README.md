@@ -10,3 +10,5 @@
     ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ***
 ![GEONBLY327's github stats](https://github-readme-stats.vercel.app/api?username=GEONBLY327&show_icons=true)
+![GEONBLY327's github stats](https://github-readme-stats.vercel.app/api?username=GEONBLY327&show_icons=true)
+[![GEONBLY327's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GEONBLY327&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/GEONBLY327)
