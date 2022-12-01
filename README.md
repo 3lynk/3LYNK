@@ -12,3 +12,4 @@
 
 ![GEONBLY327's github stats](https://github-readme-stats.vercel.app/api?username=GEONBLY327&show_icons=true&theme=panda)
 [![Solved.ac kimgunmin77](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimgunmin77)](https://solved.ac/kimgunmin77)
+[![GEONBLY327's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GEONBLY327&layout=compact&theme=tokyonight&langs_count=6)]
