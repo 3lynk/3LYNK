@@ -10,6 +10,6 @@
     [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimgunmin77@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/geon_bly327/)](https://www.instagram.com/geon_bly327)
 ***
 
-<img align="center" width="49%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimgunmin77" alt="Solved.ac Gbly327" href = "https://solved.ac/kimgunmin77"/><br>
+<img align="center" width="35%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimgunmin77" alt="Solved.ac Gbly327" href = "https://solved.ac/kimgunmin77"/><br>
 <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=GEONBLY327&show_icons=true&theme=panda" alt="GBLY327's github stats" />
 <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEONBLY327&layout=compact&theme=tokyonight&langs_count=6" alt="GBLY327's github stats"/>
