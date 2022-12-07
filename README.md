@@ -1,7 +1,6 @@
 <div align="center">
 <h1>GeonBLY327's GitHub</h1>
 
-***
 <h2>❤️‍🔥Me❤️‍🔥</h2>
 <h4>SJU SW 22</h4>
 ***
