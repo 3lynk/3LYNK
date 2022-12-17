@@ -3,9 +3,9 @@
 <h4>SJU SW 22</h4>
 <br>
 <h1>📝Studying📝</h1>
-<img align="center" width=100 src="https://img.shields.io/badge/python-3670AB?style=for-the-badge&logo=python&style=flat&logoColor=ffdd54" alt="Python" />
-<img align="center" width=50 src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&style=flat&logoColor=white" alt="C" />
-<img align="center" width=100 src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&style=flat&logoColor=white" alt="MySQL" />
+<img align="center" src="https://img.shields.io/badge/python-3670AB?style=for-the-badge&logo=python&style=flat&logoColor=ffdd54" alt="Python" />
+<img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&style=flat&logoColor=white" alt="C" />
+<img align="center" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&style=flat&logoColor=white" alt="MySQL" />
 
 <h1>💻Tools💻</h1>
 <img align="center" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&style=flat&labelColor=green" alt="PyCharm" />
