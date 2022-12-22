@@ -1,7 +1,7 @@
-<div align="center">
-<h3>❤️‍🔥Me❤️‍🔥</h3>
+<div align="">
+<h1>❤️‍🔥Me❤️‍🔥</h1>
 <h4>SJU SW 22</h4>
-<br>
+
 <h3>📝Studying📝</h3>
 <img align="center" src="https://img.shields.io/badge/python-3670AB?style=for-the-badge&logo=python&style=flat&logoColor=ffdd54" alt="Python" />
 <img align="center" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&style=flat&logoColor=white" alt="C" />
