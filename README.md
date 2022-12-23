@@ -1,5 +1,5 @@
 <div align="">
-<h1><b>❤️‍🔥gbly327's GitHub❤️‍🔥</b></h1>
+<h1><b>❤️‍🔥GBLY327's GitHub❤️‍🔥</b></h1>
 <h4>- SJU SW 22</h4>
 
 <h3><b>🏷️Connect🏷️</b></h3>
