@@ -1,13 +1,13 @@
 <div align="">
 <!--<h1><b>❤️‍🔥GBLY327's GitHub❤️‍🔥</b></h1>-->
-<h1><b>🔥GBLY327's GitHub🔥</b></h1>
+<h1><b>🔥Geonmin's GitHub🔥</b></h1>
 <h4>- SJU SW : 2022~</h4>
 <h4>- ROKA : 2023~</h4>
 
 <h3><b>🏷️Connect🏷️</b></h3>
 
 <a href="mailto:kimgunmin77@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&style=flat&logoColor=white" alt="GBLY327's Gmail" /></a>
-<a href="https://www.instagram.com/geon_bly327"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&style=social&logoColor=white&link=https://www.instagram.com/geon_bly327/" alt="GBLY327's Instagram"/></a>
+<a href="https://www.instagram.com/geon2_.327"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&style=social&logoColor=white&link=https://www.instagram.com/geon2_.327/" alt="Geonmin's Instagram"/></a>
 
 <h3><b>📝Studying📝</b></h3>
 
