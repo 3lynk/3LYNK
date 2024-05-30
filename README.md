@@ -32,7 +32,7 @@
 -->
 <h3><b>📌State📌</b></h3>
 
-<a href="https://solved.ac/profile/kimgunmin77"><img align="center" width="35%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimgunmin77" alt="Solved.ac Gbly327"/></a><br>
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=GEONBLY327&show_icons=true&theme=panda" alt="GBLY327's github stats" />
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GEONBLY327&layout=compact&theme=tokyonight&langs_count=6" alt="GBLY327's github stats"/>
+<a href="https://solved.ac/profile/kimgunmin77"><img align="center" width="35%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimgunmin77" alt="Solved.ac 3lynk"/></a><br>
+<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=3LYNK&show_icons=true&theme=panda" alt="3lynk's github stats" />
+<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3LYNK&layout=compact&theme=tokyonight&langs_count=6" alt="3lynk's github stats"/>
 </div>
