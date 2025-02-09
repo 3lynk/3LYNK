@@ -1,8 +1,8 @@
 <div align="">
 <!--<h1><b>❤️‍🔥GBLY327's GitHub❤️‍🔥</b></h1>-->
 <h1><b>🔥Geonmin's GitHub🔥</b></h1>
-<h4>- SJU SW : 2022~</h4>
-<h4>- ROKA : 2023~</h4>
+<h4>- SJU SW : 2022-</h4>
+<h4>- ROKA : 2023-2024</h4>
 
 <h3><b>🏷️Connect🏷️</b></h3>
 
