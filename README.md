@@ -30,9 +30,12 @@
 <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&style=flat&logoColor=white" alt="Visual Studio Code" />
 <img align="center" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&style=flat&logoColor=white" alt="Visual Studio" />
 -->
+
 <h3><b>📌State📌</b></h3>
 
 <a href="https://solved.ac/profile/kimgunmin77"><img align="center" width="35%" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimgunmin77" alt="Solved.ac 3lynk"/></a><br>
+<!--
 <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=3LYNK&show_icons=true&theme=panda" alt="3lynk's github stats" />
 <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3LYNK&layout=compact&theme=tokyonight&langs_count=6" alt="3lynk's github stats"/>
 </div>
+-->
